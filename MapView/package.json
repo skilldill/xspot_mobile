@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "to_android": "node transparent.js ../android/app/src/main/assets/MapView",
+    "to_ios": ""
+  }
+}
